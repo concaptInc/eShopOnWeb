@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: d88eeb20-7a4b-4661-a52c-a17e24ffe341
   WEBAPP-NAME: az400-webapp-sechaba
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
